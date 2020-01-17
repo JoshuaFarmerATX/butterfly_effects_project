@@ -1,0 +1,228 @@
+,ISO3,Country,Region,Sub-Region,Latitude,Longitude,Borders,Population,Internet Users,Internet % Of Population,Median Age,Education Expenditures
+0,AFG,Afghanistan,Asia,Southern Asia,33.0,65.0,"['IRN', 'PAK', 'TKM', 'UZB', 'TJK', 'CHN']",34940837.0,3531770.0,10.6,19.0,3.9
+1,ALB,Albania,Europe,Southern Europe,41.0,20.0,"['MNE', 'GRC', 'MKD', 'KOS']",3057220.0,2016516.0,66.4,33.4,4.0
+2,DZA,Algeria,Africa,Northern Africa,28.0,3.0,"['TUN', 'LBY', 'NER', 'ESH', 'MRT', 'MLI', 'MAR']",41657488.0,17291463.0,42.9,28.3,
+3,ASM,American Samoa,Oceania,Polynesia,-14.33333333,-170.0,[],50826.0,17000.0,31.3,26.1,
+4,AND,Andorra,Europe,Southern Europe,42.5,1.5,"['FRA', 'ESP']",85708.0,83887.0,97.9,44.9,3.2
+5,AGO,Angola,Africa,Middle Africa,-12.5,18.5,"['COG', 'COD', 'ZMB', 'NAM']",30355880.0,2622403.0,13.0,15.9,3.5
+6,AIA,Anguilla,Americas,Caribbean,18.25,-63.16666666,[],17422.0,13665.0,81.6,35.1,
+7,ATA,Antarctica,Polar,,-74.65,4.48,[],,4400.0,100.0,,
+8,ATG,Antigua And Barbuda,Americas,Caribbean,17.05,-61.8,[],95882.0,60000.0,65.2,32.2,2.5
+9,ARG,Argentina,Americas,South America,-34.0,-64.0,"['BOL', 'BRA', 'CHL', 'PRY', 'URY']",44694198.0,30786889.0,70.2,31.9,5.6
+10,ARM,Armenia,Asia,Western Asia,40.0,45.0,"['AZE', 'GEO', 'IRN', 'TUR']",3038217.0,1891775.0,62.0,35.6,2.8
+11,ABW,Aruba,Americas,Caribbean,12.5,-69.96666666,[],116576.0,106309.0,93.5,39.5,6.1
+12,AUS,Australia,Oceania,Australia and New Zealand,-27.0,133.0,[],23470145.0,20288409.0,88.2,38.8,5.3
+13,AUT,Austria,Europe,Western Europe,47.33333333,13.33333333,"['CZE', 'DEU', 'HUN', 'ITA', 'LIE', 'SVK', 'SVN', 'CHE']",8793370.0,7346055.0,84.3,44.2,5.5
+14,AZE,Azerbaijan,Asia,Western Asia,40.5,47.5,"['ARM', 'GEO', 'IRN', 'RUS', 'TUR']",10046516.0,7720502.0,78.2,31.7,2.9
+15,BHS,"Bahamas, The",Americas,Caribbean,24.25,-76.0,[],332634.0,261853.0,80.0,32.3,
+16,BHR,Bahrain,Asia,Western Asia,26.0,50.55,[],1442659.0,1351326.0,98.0,32.5,2.3
+17,BGD,Bangladesh,Asia,Southern Asia,24.0,90.0,"['MMR', 'IND']",159453001.0,28499324.0,18.2,27.1,1.5
+18,BRB,Barbados,Americas,Caribbean,13.16666666,-59.53333333,[],293131.0,231883.0,79.5,38.9,4.7
+19,BLR,Belarus,Europe,Eastern Europe,53.0,28.0,"['LVA', 'LTU', 'POL', 'RUS', 'UKR']",9527543.0,6805786.0,71.1,40.3,4.8
+20,BEL,Belgium,Europe,Western Europe,50.83333333,4.0,"['FRA', 'DEU', 'LUX', 'NLD']",11570762.0,9870734.0,86.5,41.5,6.6
+21,BLZ,Belize,Americas,Central America,17.25,-88.75,"['GTM', 'MEX']",385854.0,157735.0,44.6,23.7,7.1
+22,BEN,Benin,Africa,Western Africa,9.5,2.25,"['BFA', 'NER', 'NGA', 'TGO']",11340504.0,1288336.0,12.0,18.4,4.0
+23,BMU,Bermuda,Americas,Northern America,32.33333333,-64.75,[],71176.0,69126.0,98.0,43.5,1.5
+24,BTN,Bhutan,Asia,Southern Asia,27.5,90.5,"['CHN', 'IND']",766397.0,313347.0,41.8,28.1,7.1
+25,BOL,Bolivia,Americas,South America,-17.0,-65.0,"['ARG', 'BRA', 'CHL', 'PRY', 'PER']",11306341.0,4354678.0,39.7,24.6,7.3
+26,BIH,Bosnia And Herzegovina,Europe,Southern Europe,44.0,18.0,"['HRV', 'MNE', 'SRB']",3849891.0,2677502.0,69.3,42.5,
+27,BWA,Botswana,Africa,Southern Africa,-22.0,24.0,"['NAM', 'ZAF', 'ZMB', 'ZWE']",2249104.0,869610.0,39.4,24.9,9.6
+28,BRA,Brazil,Americas,South America,-10.0,-55.0,"['ARG', 'BOL', 'COL', 'GUF', 'GUY', 'PRY', 'PER', 'SUR', 'URY', 'VEN']",208846892.0,122841218.0,59.7,32.4,6.2
+29,VGB,British Virgin Islands,Americas,Caribbean,18.431383,-64.62305,[],35802.0,14600.0,43.6,36.7,6.3
+30,BRN,Brunei,Asia,South-Eastern Asia,4.5,114.66666666,['MYS'],450565.0,306000.0,71.2,30.5,4.4
+31,BGR,Bulgaria,Europe,Eastern Europe,43.0,25.0,"['GRC', 'MKD', 'ROU', 'SRB', 'TUR']",7057504.0,4274328.0,59.8,43.0,4.1
+32,BFA,Burkina Faso,Africa,Western Africa,13.0,-2.0,"['BEN', 'CIV', 'GHA', 'MLI', 'NER', 'TGO']",19742715.0,2723950.0,14.0,17.4,4.2
+33,BDI,Burundi,Africa,Eastern Africa,-3.5,30.0,"['COD', 'RWA', 'TZA']",11844520.0,574236.0,5.2,17.1,4.3
+34,KHM,Cambodia,Asia,South-Eastern Asia,13.0,105.0,"['LAO', 'THA', 'VNM']",16449519.0,4080372.0,25.6,25.7,1.9
+35,CMR,Cameroon,Africa,Middle Africa,6.0,12.0,"['CAF', 'TCD', 'COG', 'GNQ', 'GAB', 'NGA']",25640965.0,6090201.0,25.0,18.6,3.1
+36,CAN,Canada,Americas,Northern America,60.0,-95.0,['USA'],35881659.0,31770034.0,89.8,42.4,5.3
+37,CPV,Cabo Verde,Africa,Western Africa,16.0,-24.0,[],568373.0,266562.0,48.2,25.8,5.2
+38,CYM,Cayman Islands,Americas,Caribbean,19.5,-80.5,[],59613.0,45242.0,79.0,40.2,
+39,CAF,Central African Republic,Africa,Middle Africa,7.0,21.0,"['CMR', 'TCD', 'COD', 'COG', 'SSD', 'SDN']",5745062.0,246000.0,4.6,19.8,1.2
+40,TCD,Chad,Africa,Middle Africa,15.0,19.0,"['CMR', 'CAF', 'LBY', 'NER', 'NGA', 'SSD']",15833116.0,592623.0,5.0,15.8,2.9
+41,CHL,Chile,Americas,South America,-30.0,-71.0,"['ARG', 'BOL', 'PER']",17925262.0,11650840.0,66.0,34.8,5.4
+42,CHN,China,Asia,Eastern Asia,35.0,105.0,"['AFG', 'BTN', 'MMR', 'HKG', 'IND', 'KAZ', 'PRK', 'KGZ', 'LAO', 'MAC', 'MNG', 'PAK', 'RUS', 'TJK', 'VNM']",1384688986.0,730723960.0,53.2,37.7,
+43,CXR,Christmas Island,Oceania,Australia and New Zealand,-10.5,105.66666666,[],2205.0,790.0,35.8,,
+44,COL,Colombia,Americas,South America,4.0,-72.0,"['BRA', 'ECU', 'PAN', 'PER', 'VEN']",48168996.0,27452550.0,58.1,30.4,4.4
+45,COM,Comoros,Africa,Eastern Africa,-12.16666666,44.25,[],821164.0,63084.0,7.9,20.2,4.3
+46,COG,"Congo, Republic Of The",Africa,Middle Africa,-1.0,15.0,"['AGO', 'CMR', 'CAF', 'COD', 'GAB']",5062021.0,362000.0,7.6,19.6,4.6
+47,COD,"Congo, Democratic Republic Of The",Africa,Middle Africa,0.0,25.0,"['AGO', 'BDI', 'CAF', 'COG', 'RWA', 'SSD', 'TZA', 'UGA', 'ZMB']",85281024.0,3016000.0,3.8,18.8,1.5
+48,COK,Cook Islands,Oceania,Polynesia,-21.23333333,-159.76666666,[],9038.0,5160.0,54.0,37.2,4.7
+49,CRI,Costa Rica,Americas,Central America,10.0,-84.0,"['NIC', 'PAN']",4987142.0,3217277.0,66.0,31.7,7.4
+50,HRV,Croatia,Europe,Southern Europe,45.16666666,15.5,"['BIH', 'HUN', 'MNE', 'SRB', 'SVN']",4270480.0,3135949.0,72.7,43.3,4.6
+51,CUB,Cuba,Americas,Caribbean,21.5,-80.0,[],11116396.0,4334022.0,38.8,41.8,12.8
+52,CUW,Curacao,Americas,Caribbean,12.116667,-68.933333,[],150241.0,138750.0,93.9,36.3,4.9
+53,CYP,Cyprus,Europe,Southern Europe,35.0,33.0,['GBR'],1237088.0,915036.0,75.9,37.2,6.4
+54,CZE,Czechia,Europe,Eastern Europe,49.75,15.5,"['AUT', 'DEU', 'POL', 'SVK']",10686269.0,8141303.0,76.5,42.5,5.8
+55,DNK,Denmark,Europe,Northern Europe,56.0,10.0,['DEU'],5809502.0,5424169.0,97.0,41.9,7.6
+56,DJI,Djibouti,Africa,Eastern Africa,11.5,43.0,"['ERI', 'ETH', 'SOM']",884017.0,111212.0,13.1,24.2,4.5
+57,DMA,Dominica,Americas,Caribbean,15.41666666,-61.33333333,[],74027.0,49439.0,67.0,34.0,3.4
+58,DOM,Dominican Republic,Americas,Caribbean,19.0,-70.66666666,['HTI'],10298756.0,6504998.0,61.3,27.3,
+59,ECU,Ecuador,Americas,South America,-2.0,-77.5,"['COL', 'PER']",16498502.0,8693739.0,54.1,28.1,5.0
+60,EGY,Egypt,Africa,Northern Africa,27.0,30.0,"['ISR', 'LBY', 'SDN']",99413317.0,38.0,44.3,23.9,
+61,SLV,El Salvador,Americas,Central America,13.83333333,-88.91666666,"['GTM', 'HND']",6187271.0,1785254.0,29.0,27.6,3.8
+62,GNQ,Equatorial Guinea,Africa,Middle Africa,2.0,10.0,"['CMR', 'GAB']",797457.0,180597.0,23.8,19.9,
+63,ERI,Eritrea,Africa,Eastern Africa,15.0,39.0,"['DJI', 'ETH', 'SDN']",5970646.0,69095.0,1.2,19.9,
+64,EST,Estonia,Europe,Northern Europe,59.0,26.0,"['LVA', 'RUS']",1244288.0,1097921.0,87.2,43.0,5.2
+65,ETH,Ethiopia,Africa,Eastern Africa,8.0,38.0,"['DJI', 'ERI', 'KEN', 'SOM', 'SSD', 'SDN']",108386391.0,15731741.0,15.4,18.0,4.7
+66,FLK,Falkland Islands (Islas Malvinas),Americas,South America,-51.75,-59.0,[],3198.0,3000.0,98.3,,
+67,FRO,Faroe Islands,Europe,Northern Europe,62.0,-7.0,[],51018.0,47988.0,95.1,37.6,
+68,FJI,Fiji,Oceania,Melanesia,-18.0,175.0,[],926276.0,425680.0,46.5,29.2,3.9
+69,FIN,Finland,Europe,Northern Europe,64.0,26.0,"['NOR', 'SWE', 'RUS']",5537364.0,4822132.0,87.7,42.6,7.1
+70,FRA,France,Europe,Western Europe,46.0,2.0,"['AND', 'BEL', 'DEU', 'ITA', 'LUX', 'MCO', 'ESP', 'CHE']",67364357.0,57226585.0,85.6,41.5,5.5
+71,PYF,French Polynesia,Oceania,Polynesia,-15.0,-140.0,[],290373.0,195275.0,68.4,32.4,
+72,GAB,Gabon,Africa,Middle Africa,-1.0,11.75,"['CMR', 'COG', 'GNQ']",2119036.0,835408.0,48.1,20.5,2.7
+73,GMB,"Gambia, The",Africa,Western Africa,13.46666666,-16.56666666,['SEN'],2092731.0,371785.0,18.5,21.3,3.1
+74,GEO,Georgia,Asia,Western Asia,42.0,43.5,"['ARM', 'AZE', 'RUS', 'TUR']",4003000.0,2464107.0,50.0,38.3,3.8
+75,DEU,Germany,Europe,Western Europe,51.0,9.0,"['AUT', 'BEL', 'CZE', 'DNK', 'FRA', 'LUX', 'NLD', 'POL', 'CHE']",80457737.0,72365643.0,89.6,47.4,4.8
+76,GHA,Ghana,Africa,Western Africa,8.0,-2.0,"['BFA', 'CIV', 'TGO']",28102471.0,9328018.0,34.7,21.2,4.5
+77,GIB,Gibraltar,Europe,Southern Europe,36.13333333,-5.35,['ESP'],29461.0,27699.0,94.4,35.0,
+78,GRC,Greece,Europe,Southern Europe,39.0,22.0,"['ALB', 'BGR', 'TUR', 'MKD']",10761523.0,7443016.0,69.1,44.9,
+79,GRL,Greenland,Americas,Northern America,72.0,-40.0,[],57691.0,39544.0,68.5,34.0,
+80,GRD,Grenada,Americas,Caribbean,12.11666666,-61.66666666,[],112207.0,62123.0,55.9,32.1,10.3
+81,GUM,Guam,Oceania,Micronesia,13.46666666,144.78333333,[],167772.0,125328.0,77.0,29.1,
+82,GTM,Guatemala,Americas,Central America,15.5,-90.25,"['BLZ', 'SLV', 'HND', 'MEX']",16581273.0,5241952.0,34.5,22.5,2.8
+83,GGY,Guernsey,Europe,Northern Europe,49.46666666,-2.58333333,[],66697.0,55050.0,83.3,44.0,
+84,GIN,Guinea,Africa,Western Africa,11.0,-10.0,"['CIV', 'GNB', 'LBR', 'MLI', 'SEN', 'SLE']",11855411.0,1185148.0,9.8,19.0,2.2
+85,GNB,Guinea-Bissau,Africa,Western Africa,12.0,-15.0,"['GIN', 'SEN']",1833247.0,66169.0,3.8,17.8,2.1
+86,GUY,Guyana,Americas,South America,5.0,-59.0,"['BRA', 'SUR', 'VEN']",740685.0,262425.0,35.7,26.7,6.3
+87,HTI,Haiti,Americas,Caribbean,19.0,-72.41666666,['DOM'],10788440.0,1282686.0,12.2,23.3,2.4
+88,HND,Honduras,Americas,Central America,15.0,-86.5,"['GTM', 'SLV', 'NIC']",9182766.0,2667978.0,30.0,23.3,6.0
+89,HKG,Hong Kong,Asia,Eastern Asia,22.25,114.16666666,['CHN'],7213338.0,6066000.0,85.0,44.8,3.3
+90,HUN,Hungary,Europe,Eastern Europe,47.0,20.0,"['AUT', 'HRV', 'ROU', 'SRB', 'SVK', 'SVN', 'UKR']",9825704.0,7826695.0,79.3,42.7,4.6
+91,ISL,Iceland,Europe,Northern Europe,65.0,-18.0,[],343518.0,329967.0,98.2,36.7,7.7
+92,IND,India,Asia,Southern Asia,20.0,77.0,"['AFG', 'BGD', 'BTN', 'MMR', 'CHN', 'NPL', 'PAK', 'LKA']",1296834042.0,374328160.0,29.5,28.1,3.8
+93,IDN,Indonesia,Asia,South-Eastern Asia,-5.0,120.0,"['TLS', 'MYS', 'PNG']",262787403.0,65525226.0,25.4,30.5,3.6
+94,CIV,Cote D'Ivoire,Africa,Western Africa,8.0,-5.0,"['BFA', 'GHA', 'GIN', 'LBR', 'MLI']",26260582.0,6297676.0,26.5,19.9,4.4
+95,IRN,Iran,Asia,Southern Asia,32.0,53.0,"['AFG', 'ARM', 'AZE', 'IRQ', 'PAK', 'TUR', 'TKM']",83024745.0,36070000.0,44.1,30.8,3.8
+96,IRQ,Iraq,Asia,Western Asia,33.0,44.0,"['IRN', 'JOR', 'KWT', 'SAU', 'SYR', 'TUR']",40194216.0,8098401.0,21.2,20.2,
+97,IRL,Ireland,Europe,Northern Europe,53.0,-8.0,['GBR'],5068050.0,4069432.0,82.2,37.1,3.8
+98,ISR,Israel,Asia,Western Asia,31.5,34.75,"['EGY', 'JOR', 'LBN', 'SYR']",8424904.0,6521539.0,79.8,30.1,5.9
+99,ITA,Italy,Europe,Southern Europe,42.83333333,12.83333333,"['AUT', 'FRA', 'SMR', 'SVN', 'CHE', 'VAT']",62246674.0,38025661.0,61.3,45.8,4.1
+100,JAM,Jamaica,Americas,Caribbean,18.25,-77.5,[],2812090.0,1336653.0,45.0,28.6,5.3
+101,JPN,Japan,Asia,Eastern Asia,36.0,138.0,[],126168156.0,116565962.0,92.0,47.7,3.5
+102,JEY,Jersey,Europe,Northern Europe,49.25,-2.16666666,[],99602.0,58000.0,59.6,37.7,
+103,JOR,Jordan,Asia,Western Asia,31.0,36.0,"['IRQ', 'ISR', 'SAU', 'SYR']",10458413.0,5099674.0,62.3,22.8,3.6
+104,KAZ,Kazakhstan,Asia,Central Asia,48.0,68.0,"['CHN', 'KGZ', 'RUS', 'TKM', 'UZB']",18744548.0,14100751.0,76.8,30.9,2.9
+105,KEN,Kenya,Africa,Eastern Africa,1.0,38.0,"['ETH', 'SOM', 'SSD', 'TZA', 'UGA']",48397527.0,12165597.0,26.0,20.0,5.2
+106,KIR,Kiribati,Oceania,Micronesia,1.41666666,173.0,[],109367.0,14649.0,13.7,25.0,
+107,KWT,Kuwait,Asia,Western Asia,29.5,45.75,"['IRN', 'SAU']",2916467.0,2219972.0,78.4,29.4,
+108,KGZ,Kyrgyzstan,Asia,Central Asia,41.0,75.0,"['CHN', 'KAZ', 'TJK', 'UZB']",5849296.0,1976006.0,34.5,26.8,7.2
+109,LAO,Laos,Asia,South-Eastern Asia,18.0,105.0,"['MMR', 'KHM', 'CHN', 'THA', 'VNM']",7234171.0,1258000.0,18.2,23.4,2.9
+110,LVA,Latvia,Europe,Northern Europe,57.0,25.0,"['BLR', 'EST', 'LTU', 'RUS']",1923559.0,1570374.0,79.9,43.9,5.3
+111,LBN,Lebanon,Asia,Western Asia,33.83333333,35.83333333,"['ISR', 'SYR']",6100075.0,4747542.0,76.1,31.3,2.5
+112,LSO,Lesotho,Africa,Southern Africa,-29.5,28.5,['ZAF'],1962461.0,534360.0,27.4,24.4,6.4
+113,LBR,Liberia,Africa,Western Africa,6.5,-9.5,"['GIN', 'CIV', 'SLE']",4809768.0,314717.0,7.3,17.8,3.8
+114,LBY,Libya,Africa,Northern Africa,25.0,17.0,"['DZA', 'TCD', 'EGY', 'NER', 'SDN', 'TUN']",6754507.0,1326194.0,20.3,29.4,
+115,LIE,Liechtenstein,Europe,Western Europe,47.26666666,9.53333333,"['AUT', 'CHE']",38547.0,37214.0,98.1,43.4,2.6
+116,LTU,Lithuania,Europe,Northern Europe,56.0,24.0,"['BLR', 'LVA', 'POL', 'RUS']",2793284.0,2122884.0,74.4,44.0,4.2
+117,LUX,Luxembourg,Europe,Western Europe,49.75,6.16666666,"['BEL', 'FRA', 'DEU']",605764.0,567698.0,97.5,39.3,3.9
+118,MAC,Macau,Asia,Eastern Asia,22.16666666,113.55,['CHN'],606340.0,460000.0,77.6,39.8,3.1
+119,MKD,North Macedonia,Europe,Southern Europe,41.83333333,22.0,"['ALB', 'BGR', 'GRC', 'KOS', 'SRB']",2118945.0,1475000.0,70.4,38.2,
+120,MDG,Madagascar,Africa,Eastern Africa,-20.0,47.0,[],25683610.0,1151563.0,4.7,19.9,2.8
+121,MWI,Malawi,Africa,Eastern Africa,-13.5,34.0,"['MOZ', 'TZA', 'ZMB']",19842560.0,1785369.0,9.6,16.6,4.0
+122,MYS,Malaysia,Asia,South-Eastern Asia,2.5,112.5,"['BRN', 'IDN', 'THA']",31809660.0,24384952.0,78.8,28.7,4.7
+123,MDV,Maldives,Asia,Southern Asia,3.25,73.0,[],392473.0,232210.0,59.1,28.6,4.3
+124,MLI,Mali,Africa,Western Africa,17.0,-4.0,"['DZA', 'BFA', 'GIN', 'CIV', 'MRT', 'NER', 'SEN']",18429893.0,1940978.0,11.1,15.8,3.1
+125,MLT,Malta,Europe,Southern Europe,35.83333333,14.58333333,[],449043.0,320902.0,77.3,41.8,5.3
+126,MHL,Marshall Islands,Oceania,Micronesia,9.0,168.0,[],75684.0,21857.0,29.8,23.1,
+127,MRT,Mauritania,Africa,Western Africa,20.0,-12.0,"['DZA', 'MLI', 'SEN', 'ESH']",3840429.0,661913.0,18.0,20.7,2.6
+128,MUS,Mauritius,Africa,Eastern Africa,-20.28333333,57.55,[],1364283.0,717618.0,53.2,35.7,5.0
+129,MEX,Mexico,Americas,Central America,23.0,-102.0,"['BLZ', 'GTM', 'USA']",125959205.0,73334032.0,59.5,28.6,5.2
+130,FSM,"Micronesia, Federated States Of",Oceania,Micronesia,6.91666666,158.25,[],103643.0,33000.0,31.5,25.5,12.5
+131,MDA,Moldova,Europe,Eastern Europe,47.0,29.0,"['ROU', 'UKR']",3437720.0,2492444.0,71.0,37.0,6.7
+132,MCO,Monaco,Europe,Western Europe,43.73333333,7.4,['FRA'],30727.0,29116.0,95.2,53.8,1.4
+133,MNG,Mongolia,Asia,Eastern Asia,46.0,105.0,"['CHN', 'RUS']",3103428.0,674949.0,22.3,28.8,4.1
+134,MNE,Montenegro,Europe,Southern Europe,42.5,19.3,"['ALB', 'BIH', 'HRV', 'KOS', 'SRB']",614249.0,450442.0,69.9,38.9,
+135,MSR,Montserrat,Americas,Caribbean,16.75,-62.2,[],5315.0,2860.0,54.6,33.8,5.1
+136,MAR,Morocco,Africa,Northern Africa,32.0,-5.0,"['DZA', 'ESH', 'ESP']",34314130.0,19611643.0,58.3,29.7,5.3
+137,MOZ,Mozambique,Africa,Eastern Africa,-18.25,35.0,"['MWI', 'ZAF', 'SWZ', 'TZA', 'ZMB', 'ZWE']",27233789.0,4543284.0,17.5,17.3,6.5
+138,MMR,Burma,Asia,South-Eastern Asia,22.0,98.0,"['BGD', 'CHN', 'IND', 'LAO', 'THA']",55622506.0,14264308.0,25.1,28.5,0.8
+139,NAM,Namibia,Africa,Southern Africa,-22.0,17.0,"['AGO', 'BWA', 'ZAF', 'ZMB']",2533224.0,756118.0,31.0,21.4,3.1
+140,NRU,Nauru,Oceania,Micronesia,-0.53333333,166.91666666,[],9692.0,5100.0,53.5,26.7,
+141,NPL,Nepal,Asia,Southern Asia,28.0,84.0,"['CHN', 'IND']",29717587.0,5716419.0,19.7,24.5,5.1
+142,NLD,Netherlands,Europe,Western Europe,52.5,5.75,"['BEL', 'DEU']",17151228.0,15385203.0,90.4,42.7,5.4
+143,NCL,New Caledonia,Oceania,Melanesia,-21.5,165.5,[],282754.0,201000.0,74.0,32.3,
+144,NZL,New Zealand,Oceania,Australia and New Zealand,-41.0,174.0,[],4545627.0,3958642.0,88.5,38.1,6.3
+145,NIC,Nicaragua,Americas,Central America,13.0,-85.0,"['CRI', 'HND']",6085213.0,1466152.0,24.6,26.2,4.3
+146,NER,Niger,Africa,Western Africa,16.0,8.0,"['DZA', 'BEN', 'BFA', 'TCD', 'LBY', 'MLI', 'NGA']",19866231.0,805702.0,4.3,15.5,3.5
+147,NGA,Nigeria,Africa,Western Africa,10.0,8.0,"['BEN', 'CMR', 'TCD', 'NER']",203452505.0,47759904.0,25.7,18.3,
+148,NIU,Niue,Oceania,Polynesia,-19.03333333,-169.86666666,[],1618.0,1090.0,91.6,,
+149,NFK,Norfolk Island,Oceania,Australia and New Zealand,-29.03333333,167.95,[],1748.0,765.0,34.6,,
+150,MNP,Northern Mariana Islands,Oceania,Micronesia,15.2,145.75,[],51994.0,16000.0,30.6,33.4,
+151,NOR,Norway,Europe,Northern Europe,62.0,10.0,"['FIN', 'SWE', 'RUS']",5372191.0,5122904.0,97.3,39.3,7.6
+152,OMN,Oman,Asia,Western Asia,21.0,57.0,"['SAU', 'ARE', 'YEM']",4613241.0,2342483.0,69.8,25.8,6.7
+153,PAK,Pakistan,Asia,Southern Asia,30.0,70.0,"['AFG', 'CHN', 'IND', 'IRN']",207862518.0,31338715.0,15.5,24.1,2.8
+154,PLW,Palau,Oceania,Micronesia,7.5,134.5,[],21516.0,7650.0,36.0,33.6,
+155,PSE,Gaza Strip,Asia,Western Asia,31.9,35.2,"['ISR', 'EGY', 'JOR']",1836713.0,2673000.0,57.4,17.4,5.3
+156,PSE,West Bank,Asia,Western Asia,31.9,35.2,"['ISR', 'EGY', 'JOR']",2798494.0,2673000.0,57.4,21.4,5.3
+157,PAN,Panama,Americas,Central America,9.0,-80.0,"['COL', 'CRI']",3800644.0,2000833.0,54.0,29.5,3.2
+158,PNG,Papua New Guinea,Oceania,Melanesia,-6.0,147.0,['IDN'],7027332.0,652071.0,9.6,23.4,
+159,PRY,Paraguay,Americas,South America,-23.0,-58.0,"['ARG', 'BOL', 'BRA']",7025763.0,3524045.0,51.3,28.7,4.5
+160,PER,Peru,Americas,South America,-10.0,-76.0,"['BOL', 'BRA', 'CHL', 'COL', 'ECU']",31331228.0,13975422.0,45.5,28.4,3.9
+161,PHL,Philippines,Asia,South-Eastern Asia,13.0,122.0,[],105893381.0,56956436.0,55.5,23.7,2.7
+162,PCN,Pitcairn Islands,Oceania,Polynesia,-25.06666666,-130.1,[],54.0,54.0,100.0,,
+163,POL,Poland,Europe,Eastern Europe,52.0,20.0,"['BLR', 'CZE', 'DEU', 'LTU', 'RUS', 'SVK', 'UKR']",38420687.0,28237820.0,73.3,41.1,4.8
+164,PRT,Portugal,Europe,Southern Europe,39.5,-8.0,['ESP'],10355493.0,7629560.0,70.4,43.7,4.9
+165,PRI,Puerto Rico,Americas,Caribbean,18.25,-66.5,[],3294626.0,2873895.0,80.3,42.2,6.1
+166,QAT,Qatar,Asia,Western Asia,25.5,51.25,['SAU'],2363569.0,2129360.0,94.3,33.4,2.9
+167,ROU,Romania,Europe,Eastern Europe,46.0,25.0,"['BGR', 'HUN', 'MDA', 'SRB', 'UKR']",21457116.0,12852696.0,59.5,41.6,3.1
+168,RUS,Russia,Europe,Eastern Europe,60.0,100.0,"['AZE', 'BLR', 'CHN', 'EST', 'FIN', 'GEO', 'KAZ', 'PRK', 'LVA', 'LTU', 'MNG', 'NOR', 'POL', 'UKR']",142122776.0,108772470.0,76.4,39.8,3.8
+169,RWA,Rwanda,Africa,Eastern Africa,-2.0,30.0,"['BDI', 'COD', 'TZA', 'UGA']",12187400.0,3724678.0,29.8,19.2,3.2
+170,SHN,"Saint Helena, Ascension, And Tristan Da Cunha",Africa,Western Africa,-15.95,-5.7,[],7841.0,1800.0,23.1,42.4,
+171,KNA,Saint Kitts And Nevis,Americas,Caribbean,17.33333333,-62.75,[],53094.0,39000.0,75.7,35.5,2.8
+172,LCA,Saint Lucia,Americas,Caribbean,13.88333333,-60.96666666,[],165510.0,86000.0,52.4,35.5,5.7
+173,MAF,Saint Martin,Americas,Caribbean,18.08333333,-63.95,"['SXM', 'NLD']",32284.0,1100.0,3.5,32.8,
+174,SPM,Saint Pierre And Miquelon,Americas,Northern America,46.83333333,-56.33333333,[],5471.0,4500.0,79.5,47.2,
+175,VCT,Saint Vincent And The Grenadines,Americas,Caribbean,13.25,-61.2,[],101844.0,53000.0,51.8,34.2,5.8
+176,WSM,Samoa,Oceania,Polynesia,-13.58333333,-172.33333333,[],201316.0,58508.0,29.4,24.8,4.1
+177,SMR,San Marino,Europe,Southern Europe,43.76666666,12.41666666,['ITA'],33779.0,17200.0,52.6,44.7,2.4
+178,STP,Sao Tome And Principe,Africa,Middle Africa,1.0,7.0,[],204454.0,50000.0,25.8,18.7,4.9
+179,SAU,Saudi Arabia,Asia,Western Asia,25.0,45.0,"['IRQ', 'JOR', 'KWT', 'OMN', 'QAT', 'ARE', 'YEM']",33091113.0,20768456.0,73.8,29.9,
+180,SEN,Senegal,Africa,Western Africa,14.0,-14.0,"['GMB', 'GIN', 'GNB', 'MLI', 'MRT']",15020945.0,3675209.0,25.7,19.0,6.2
+181,SRB,Serbia,Europe,Southern Europe,44.0,21.0,"['BIH', 'BGR', 'HRV', 'HUN', 'KOS', 'MKD', 'MNE', 'ROU']",7078110.0,4790488.0,67.1,42.8,3.9
+182,SYC,Seychelles,Africa,Eastern Africa,-4.58333333,55.66666666,[],94633.0,52664.0,56.5,35.8,4.4
+183,SLE,Sierra Leone,Africa,Western Africa,8.5,-11.5,"['GIN', 'LBR']",6312212.0,708615.0,11.8,19.1,4.6
+184,SGP,Singapore,Asia,South-Eastern Asia,1.36666666,103.8,[],5995991.0,4683200.0,81.0,34.9,2.9
+185,SVK,Slovakia,Europe,Eastern Europe,48.66666666,19.5,"['AUT', 'CZE', 'HUN', 'POL', 'UKR']",5445040.0,4382558.0,80.5,41.0,4.6
+186,SVN,Slovenia,Europe,Southern Europe,46.11666666,14.81666666,"['AUT', 'HRV', 'ITA', 'HUN']",2102126.0,1493382.0,75.5,44.2,4.9
+187,SLB,Solomon Islands,Oceania,Melanesia,-8.0,159.0,[],660121.0,69859.0,11.0,22.8,9.9
+188,SOM,Somalia,Africa,Eastern Africa,10.0,49.0,"['DJI', 'ETH', 'KEN']",11259029.0,203366.0,1.9,18.2,
+189,ZAF,South Africa,Africa,Southern Africa,-29.0,24.0,"['BWA', 'LSO', 'MOZ', 'NAM', 'SWZ', 'ZWE']",55380210.0,29322380.0,54.0,27.4,6.1
+190,KOR,"Korea, South",Asia,Eastern Asia,37.0,127.5,['PRK'],51418097.0,44153000.0,89.9,42.3,5.3
+191,ESP,Spain,Europe,Southern Europe,40.0,-4.0,"['AND', 'FRA', 'GIB', 'PRT', 'MAR']",49331076.0,39123384.0,80.6,43.1,4.3
+192,LKA,Sri Lanka,Asia,Southern Asia,7.0,81.0,['IND'],22576592.0,7126540.0,32.1,33.1,2.8
+193,SDN,Sudan,Africa,Northern Africa,15.0,30.0,"['CAF', 'TCD', 'EGY', 'ERI', 'ETH', 'LBY', 'SSD']",43120843.0,10284260.0,28.0,17.9,2.2
+194,SUR,Suriname,Americas,South America,4.0,-56.0,"['BRA', 'GUF', 'FRA', 'GUY']",597927.0,265964.0,45.4,30.2,
+195,SWZ,Eswatini,Africa,Southern Africa,-26.5,31.5,"['MOZ', 'ZAF']",1087200.0,414724.0,28.6,23.2,7.1
+196,SWE,Sweden,Europe,Northern Europe,62.0,15.0,"['FIN', 'NOR']",10040995.0,9041427.0,91.5,41.1,7.6
+197,CHE,Switzerland,Europe,Western Europe,47.0,8.0,"['AUT', 'FRA', 'ITA', 'LIE', 'DEU']",8292809.0,7312744.0,89.4,42.5,5.1
+198,SYR,Syria,Asia,Western Asia,35.0,38.0,"['IRQ', 'ISR', 'JOR', 'LBN', 'TUR']",19454263.0,5476850.0,31.9,24.5,5.1
+199,TWN,Taiwan,Asia,Eastern Asia,23.5,121.0,[],23545963.0,20601000.0,88.0,41.3,
+200,TJK,Tajikistan,Asia,Central Asia,39.0,71.0,"['AFG', 'CHN', 'KGZ', 'UZB']",8604882.0,1705345.0,20.5,24.8,5.2
+201,TZA,Tanzania,Africa,Eastern Africa,-6.0,35.0,"['BDI', 'COD', 'KEN', 'MWI', 'MOZ', 'RWA', 'UGA', 'ZMB']",55451343.0,6822754.0,13.0,17.9,3.5
+202,THA,Thailand,Asia,South-Eastern Asia,15.0,100.0,"['MMR', 'KHM', 'LAO', 'MYS']",68615858.0,32398778.0,47.5,38.1,4.1
+203,TLS,Timor-Leste,Asia,South-Eastern Asia,-8.83333333,125.91666666,['IDN'],1321929.0,318373.0,25.2,19.1,2.7
+204,TGO,Togo,Africa,Western Africa,8.0,1.16666666,"['BEN', 'BFA', 'GHA']",8176449.0,877310.0,11.3,19.9,5.1
+205,TKL,Tokelau,Oceania,Polynesia,-9.0,-172.0,[],1285.0,805.0,60.2,,
+206,TON,Tonga,Oceania,Polynesia,-20.0,-175.0,[],106398.0,42552.0,40.0,23.3,
+207,TTO,Trinidad And Tobago,Americas,Caribbean,11.0,-61.0,[],1215527.0,846000.0,69.2,36.6,
+208,TUN,Tunisia,Africa,Northern Africa,34.0,9.0,"['DZA', 'LBY']",11516189.0,5665242.0,50.9,32.0,6.6
+209,TUR,Turkey,Asia,Western Asia,39.0,35.0,"['ARM', 'AZE', 'BGR', 'GEO', 'GRC', 'IRN', 'IRQ', 'SYR']",81257239.0,46838412.0,58.3,31.4,4.3
+210,TKM,Turkmenistan,Asia,Central Asia,40.0,60.0,"['AFG', 'IRN', 'KAZ', 'UZB']",5411012.0,951925.0,18.0,28.3,3.0
+211,TUV,Tuvalu,Oceania,Polynesia,-8.0,178.0,[],11147.0,5042.0,46.0,26.0,
+212,UGA,Uganda,Africa,Eastern Africa,1.0,32.0,"['COD', 'KEN', 'RWA', 'SSD', 'TZA']",40853749.0,18148923.0,45.9,15.9,2.6
+213,UKR,Ukraine,Europe,Eastern Europe,49.0,32.0,"['BLR', 'HUN', 'MDA', 'POL', 'ROU', 'RUS', 'SVK']",43952299.0,23202067.0,52.5,40.8,5.0
+214,ARE,United Arab Emirates,Asia,Western Asia,24.0,54.0,"['OMN', 'SAU']",9701315.0,5370299.0,90.6,37.2,
+215,GBR,United Kingdom,Europe,Northern Europe,54.0,-2.0,['IRL'],65105246.0,61064454.0,94.8,40.5,5.5
+216,USA,United States,Americas,Northern America,38.0,-97.0,"['CAN', 'MEX']",329256465.0,246809221.0,76.2,38.2,5.0
+217,URY,Uruguay,Americas,South America,-33.0,-56.0,"['ARG', 'BRA']",3369299.0,2225075.0,66.4,35.1,4.4
+218,UZB,Uzbekistan,Asia,Central Asia,41.0,64.0,"['AFG', 'KAZ', 'KGZ', 'TJK', 'TKM']",30023709.0,13791083.0,46.8,29.1,6.4
+219,VUT,Vanuatu,Oceania,Melanesia,-16.0,167.0,[],288037.0,66613.0,24.0,22.3,4.7
+220,VEN,Venezuela,Americas,South America,8.0,-66.0,"['BRA', 'COL', 'GUY']",31689176.0,18547381.0,60.0,28.7,6.9
+221,VNM,Vietnam,Asia,South-Eastern Asia,16.16666666,107.83333333,"['KHM', 'CHN', 'LAO']",97040334.0,49741000.0,52.7,30.9,5.7
+222,WLF,Wallis And Futuna,Oceania,Polynesia,-13.3,-176.2,[],15763.0,3450.0,22.1,32.8,
+223,YEM,Yemen,Asia,Western Asia,15.0,48.0,"['OMN', 'SAU']",28667230.0,6732928.0,24.6,19.8,
+224,ZMB,Zambia,Africa,Eastern Africa,-15.0,30.0,"['AGO', 'BWA', 'COD', 'MWI', 'MOZ', 'NAM', 'TZA', 'ZWE']",16445079.0,3956252.0,25.5,16.8,
+225,ZWE,Zimbabwe,Africa,Eastern Africa,-20.0,30.0,"['BWA', 'MOZ', 'ZAF', 'ZMB']",14030368.0,3363256.0,23.1,20.2,7.5
+226,World,World,World,World,World,World,World,7503828180.0,3174000000.0,43.0,30.6,

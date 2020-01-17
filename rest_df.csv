@@ -1,0 +1,251 @@
+,Country,Alpha3 Code,Capital,Region,Sub-Region,Population,Latitutde,Longitude,Area,Timezone,borders,Currencies,Regional Bloc
+0,Afghanistan,AFG,Kabul,Asia,Southern Asia,27657145,33.0,65.0,652230.0,UTC+04:30,"['IRN', 'PAK', 'TKM', 'UZB', 'TJK', 'CHN']",Afghan afghani,South Asian Association for Regional Cooperation
+1,Åland Islands,ALA,Mariehamn,Europe,Northern Europe,28875,60.116667,19.9,1580.0,UTC+02:00,[],Euro,European Union
+2,Albania,ALB,Tirana,Europe,Southern Europe,2886026,41.0,20.0,28748.0,UTC+01:00,"['MNE', 'GRC', 'MKD', 'KOS']",Albanian lek,Central European Free Trade Agreement
+3,Algeria,DZA,Algiers,Africa,Northern Africa,40400000,28.0,3.0,2381741.0,UTC+01:00,"['TUN', 'LBY', 'NER', 'ESH', 'MRT', 'MLI', 'MAR']",Algerian dinar,African Union
+4,American Samoa,ASM,Pago Pago,Oceania,Polynesia,57100,-14.33333333,-170.0,199.0,UTC-11:00,[],United State Dollar,
+5,Andorra,AND,Andorra la Vella,Europe,Southern Europe,78014,42.5,1.5,468.0,UTC+01:00,"['FRA', 'ESP']",Euro,
+6,Angola,AGO,Luanda,Africa,Middle Africa,25868000,-12.5,18.5,1246700.0,UTC+01:00,"['COG', 'COD', 'ZMB', 'NAM']",Angolan kwanza,African Union
+7,Anguilla,AIA,The Valley,Americas,Caribbean,13452,18.25,-63.16666666,91.0,UTC-04:00,[],East Caribbean dollar,
+8,Antarctica,ATA,,Polar,,1000,-74.65,4.48,14000000.0,UTC-03:00,[],Australian dollar,
+9,Antigua and Barbuda,ATG,Saint John's,Americas,Caribbean,86295,17.05,-61.8,442.0,UTC-04:00,[],East Caribbean dollar,Caribbean Community
+10,Argentina,ARG,Buenos Aires,Americas,South America,43590400,-34.0,-64.0,2780400.0,UTC-03:00,"['BOL', 'BRA', 'CHL', 'PRY', 'URY']",Argentine peso,Union of South American Nations
+11,Armenia,ARM,Yerevan,Asia,Western Asia,2994400,40.0,45.0,29743.0,UTC+04:00,"['AZE', 'GEO', 'IRN', 'TUR']",Armenian dram,Eurasian Economic Union
+12,Aruba,ABW,Oranjestad,Americas,Caribbean,107394,12.5,-69.96666666,180.0,UTC-04:00,[],Aruban florin,
+13,Australia,AUS,Canberra,Oceania,Australia and New Zealand,24117360,-27.0,133.0,7692024.0,UTC+05:00,[],Australian dollar,
+14,Austria,AUT,Vienna,Europe,Western Europe,8725931,47.33333333,13.33333333,83871.0,UTC+01:00,"['CZE', 'DEU', 'HUN', 'ITA', 'LIE', 'SVK', 'SVN', 'CHE']",Euro,European Union
+15,Azerbaijan,AZE,Baku,Asia,Western Asia,9730500,40.5,47.5,86600.0,UTC+04:00,"['ARM', 'GEO', 'IRN', 'RUS', 'TUR']",Azerbaijani manat,
+16,Bahamas,BHS,Nassau,Americas,Caribbean,378040,24.25,-76.0,13943.0,UTC-05:00,[],Bahamian dollar,Caribbean Community
+17,Bahrain,BHR,Manama,Asia,Western Asia,1404900,26.0,50.55,765.0,UTC+03:00,[],Bahraini dinar,Arab League
+18,Bangladesh,BGD,Dhaka,Asia,Southern Asia,161006790,24.0,90.0,147570.0,UTC+06:00,"['MMR', 'IND']",Bangladeshi taka,South Asian Association for Regional Cooperation
+19,Barbados,BRB,Bridgetown,Americas,Caribbean,285000,13.16666666,-59.53333333,430.0,UTC-04:00,[],Barbadian dollar,Caribbean Community
+20,Belarus,BLR,Minsk,Europe,Eastern Europe,9498700,53.0,28.0,207600.0,UTC+03:00,"['LVA', 'LTU', 'POL', 'RUS', 'UKR']",New Belarusian ruble,Eurasian Economic Union
+21,Belgium,BEL,Brussels,Europe,Western Europe,11319511,50.83333333,4.0,30528.0,UTC+01:00,"['FRA', 'DEU', 'LUX', 'NLD']",Euro,European Union
+22,Belize,BLZ,Belmopan,Americas,Central America,370300,17.25,-88.75,22966.0,UTC-06:00,"['GTM', 'MEX']",Belize dollar,Caribbean Community
+23,Benin,BEN,Porto-Novo,Africa,Western Africa,10653654,9.5,2.25,112622.0,UTC+01:00,"['BFA', 'NER', 'NGA', 'TGO']",West African CFA franc,African Union
+24,Bermuda,BMU,Hamilton,Americas,Northern America,61954,32.33333333,-64.75,54.0,UTC-04:00,[],Bermudian dollar,
+25,Bhutan,BTN,Thimphu,Asia,Southern Asia,775620,27.5,90.5,38394.0,UTC+06:00,"['CHN', 'IND']",Bhutanese ngultrum,South Asian Association for Regional Cooperation
+26,Bolivia (Plurinational State of),BOL,Sucre,Americas,South America,10985059,-17.0,-65.0,1098581.0,UTC-04:00,"['ARG', 'BRA', 'CHL', 'PRY', 'PER']",Bolivian boliviano,Union of South American Nations
+27,"Bonaire, Sint Eustatius and Saba",BES,Kralendijk,Americas,Caribbean,17408,12.15,-68.266667,294.0,UTC-04:00,[],United States dollar,
+28,Bosnia and Herzegovina,BIH,Sarajevo,Europe,Southern Europe,3531159,44.0,18.0,51209.0,UTC+01:00,"['HRV', 'MNE', 'SRB']",Bosnia and Herzegovina convertible mark,Central European Free Trade Agreement
+29,Botswana,BWA,Gaborone,Africa,Southern Africa,2141206,-22.0,24.0,582000.0,UTC+02:00,"['NAM', 'ZAF', 'ZMB', 'ZWE']",Botswana pula,African Union
+30,Bouvet Island,BVT,,,,0,-54.43333333,3.4,49.0,UTC+01:00,[],Norwegian krone,
+31,Brazil,BRA,Brasília,Americas,South America,206135893,-10.0,-55.0,8515767.0,UTC-05:00,"['ARG', 'BOL', 'COL', 'GUF', 'GUY', 'PRY', 'PER', 'SUR', 'URY', 'VEN']",Brazilian real,Union of South American Nations
+32,British Indian Ocean Territory,IOT,Diego Garcia,Africa,Eastern Africa,3000,-6.0,71.5,60.0,UTC+06:00,[],United States dollar,African Union
+33,United States Minor Outlying Islands,UMI,,Americas,Northern America,300,,,,UTC-11:00,[],United States Dollar,
+34,Virgin Islands (British),VGB,Road Town,Americas,Caribbean,28514,18.431383,-64.62305,151.0,UTC-04:00,[],[D],
+35,Virgin Islands (U.S.),VIR,Charlotte Amalie,Americas,Caribbean,114743,18.34,-64.93,346.36,UTC-04:00,[],United States dollar,
+36,Brunei Darussalam,BRN,Bandar Seri Begawan,Asia,South-Eastern Asia,411900,4.5,114.66666666,5765.0,UTC+08:00,['MYS'],Brunei dollar,Association of Southeast Asian Nations
+37,Bulgaria,BGR,Sofia,Europe,Eastern Europe,7153784,43.0,25.0,110879.0,UTC+02:00,"['GRC', 'MKD', 'ROU', 'SRB', 'TUR']",Bulgarian lev,European Union
+38,Burkina Faso,BFA,Ouagadougou,Africa,Western Africa,19034397,13.0,-2.0,272967.0,UTC,"['BEN', 'CIV', 'GHA', 'MLI', 'NER', 'TGO']",West African CFA franc,African Union
+39,Burundi,BDI,Bujumbura,Africa,Eastern Africa,10114505,-3.5,30.0,27834.0,UTC+02:00,"['COD', 'RWA', 'TZA']",Burundian franc,African Union
+40,Cambodia,KHM,Phnom Penh,Asia,South-Eastern Asia,15626444,13.0,105.0,181035.0,UTC+07:00,"['LAO', 'THA', 'VNM']",Cambodian riel,Association of Southeast Asian Nations
+41,Cameroon,CMR,Yaoundé,Africa,Middle Africa,22709892,6.0,12.0,475442.0,UTC+01:00,"['CAF', 'TCD', 'COG', 'GNQ', 'GAB', 'NGA']",Central African CFA franc,African Union
+42,Canada,CAN,Ottawa,Americas,Northern America,36155487,60.0,-95.0,9984670.0,UTC-08:00,['USA'],Canadian dollar,North American Free Trade Agreement
+43,Cabo Verde,CPV,Praia,Africa,Western Africa,531239,16.0,-24.0,4033.0,UTC-01:00,[],Cape Verdean escudo,African Union
+44,Cayman Islands,CYM,George Town,Americas,Caribbean,58238,19.5,-80.5,264.0,UTC-05:00,[],Cayman Islands dollar,
+45,Central African Republic,CAF,Bangui,Africa,Middle Africa,4998000,7.0,21.0,622984.0,UTC+01:00,"['CMR', 'TCD', 'COD', 'COG', 'SSD', 'SDN']",Central African CFA franc,African Union
+46,Chad,TCD,N'Djamena,Africa,Middle Africa,14497000,15.0,19.0,1284000.0,UTC+01:00,"['CMR', 'CAF', 'LBY', 'NER', 'NGA', 'SSD']",Central African CFA franc,African Union
+47,Chile,CHL,Santiago,Americas,South America,18191900,-30.0,-71.0,756102.0,UTC-06:00,"['ARG', 'BOL', 'PER']",Chilean peso,Pacific Alliance
+48,China,CHN,Beijing,Asia,Eastern Asia,1377422166,35.0,105.0,9640011.0,UTC+08:00,"['AFG', 'BTN', 'MMR', 'HKG', 'IND', 'KAZ', 'PRK', 'KGZ', 'LAO', 'MAC', 'MNG', 'PAK', 'RUS', 'TJK', 'VNM']",Chinese yuan,
+49,Christmas Island,CXR,Flying Fish Cove,Oceania,Australia and New Zealand,2072,-10.5,105.66666666,135.0,UTC+07:00,[],Australian dollar,
+50,Cocos (Keeling) Islands,CCK,West Island,Oceania,Australia and New Zealand,550,-12.5,96.83333333,14.0,UTC+06:30,[],Australian dollar,
+51,Colombia,COL,Bogotá,Americas,South America,48759958,4.0,-72.0,1141748.0,UTC-05:00,"['BRA', 'ECU', 'PAN', 'PER', 'VEN']",Colombian peso,Pacific Alliance
+52,Comoros,COM,Moroni,Africa,Eastern Africa,806153,-12.16666666,44.25,1862.0,UTC+03:00,[],Comorian franc,African Union
+53,Congo,COG,Brazzaville,Africa,Middle Africa,4741000,-1.0,15.0,342000.0,UTC+01:00,"['AGO', 'CMR', 'CAF', 'COD', 'GAB']",Central African CFA franc,African Union
+54,Congo (Democratic Republic of the),COD,Kinshasa,Africa,Middle Africa,85026000,0.0,25.0,2344858.0,UTC+01:00,"['AGO', 'BDI', 'CAF', 'COG', 'RWA', 'SSD', 'TZA', 'UGA', 'ZMB']",Congolese franc,African Union
+55,Cook Islands,COK,Avarua,Oceania,Polynesia,18100,-21.23333333,-159.76666666,236.0,UTC-10:00,[],New Zealand dollar,
+56,Costa Rica,CRI,San José,Americas,Central America,4890379,10.0,-84.0,51100.0,UTC-06:00,"['NIC', 'PAN']",Costa Rican colón,Central American Integration System
+57,Croatia,HRV,Zagreb,Europe,Southern Europe,4190669,45.16666666,15.5,56594.0,UTC+01:00,"['BIH', 'HUN', 'MNE', 'SRB', 'SVN']",Croatian kuna,European Union
+58,Cuba,CUB,Havana,Americas,Caribbean,11239004,21.5,-80.0,109884.0,UTC-05:00,[],Cuban convertible peso,
+59,Curaçao,CUW,Willemstad,Americas,Caribbean,154843,12.116667,-68.933333,444.0,UTC-04:00,[],Netherlands Antillean guilder,
+60,Cyprus,CYP,Nicosia,Europe,Southern Europe,847000,35.0,33.0,9251.0,UTC+02:00,['GBR'],Euro,European Union
+61,Czech Republic,CZE,Prague,Europe,Eastern Europe,10558524,49.75,15.5,78865.0,UTC+01:00,"['AUT', 'DEU', 'POL', 'SVK']",Czech koruna,European Union
+62,Denmark,DNK,Copenhagen,Europe,Northern Europe,5717014,56.0,10.0,43094.0,UTC-04:00,['DEU'],Danish krone,European Union
+63,Djibouti,DJI,Djibouti,Africa,Eastern Africa,900000,11.5,43.0,23200.0,UTC+03:00,"['ERI', 'ETH', 'SOM']",Djiboutian franc,African Union
+64,Dominica,DMA,Roseau,Americas,Caribbean,71293,15.41666666,-61.33333333,751.0,UTC-04:00,[],East Caribbean dollar,
+65,Dominican Republic,DOM,Santo Domingo,Americas,Caribbean,10075045,19.0,-70.66666666,48671.0,UTC-04:00,['HTI'],Dominican peso,Caribbean Community
+66,Ecuador,ECU,Quito,Americas,South America,16545799,-2.0,-77.5,276841.0,UTC-06:00,"['COL', 'PER']",United States dollar,Union of South American Nations
+67,Egypt,EGY,Cairo,Africa,Northern Africa,91290000,27.0,30.0,1002450.0,UTC+02:00,"['ISR', 'LBY', 'SDN']",Egyptian pound,African Union
+68,El Salvador,SLV,San Salvador,Americas,Central America,6520675,13.83333333,-88.91666666,21041.0,UTC-06:00,"['GTM', 'HND']",United States dollar,Central American Integration System
+69,Equatorial Guinea,GNQ,Malabo,Africa,Middle Africa,1222442,2.0,10.0,28051.0,UTC+01:00,"['CMR', 'GAB']",Central African CFA franc,African Union
+70,Eritrea,ERI,Asmara,Africa,Eastern Africa,5352000,15.0,39.0,117600.0,UTC+03:00,"['DJI', 'ETH', 'SDN']",Eritrean nakfa,African Union
+71,Estonia,EST,Tallinn,Europe,Northern Europe,1315944,59.0,26.0,45227.0,UTC+02:00,"['LVA', 'RUS']",Euro,European Union
+72,Ethiopia,ETH,Addis Ababa,Africa,Eastern Africa,92206005,8.0,38.0,1104300.0,UTC+03:00,"['DJI', 'ERI', 'KEN', 'SOM', 'SSD', 'SDN']",Ethiopian birr,African Union
+73,Falkland Islands (Malvinas),FLK,Stanley,Americas,South America,2563,-51.75,-59.0,12173.0,UTC-04:00,[],Falkland Islands pound,Union of South American Nations
+74,Faroe Islands,FRO,Tórshavn,Europe,Northern Europe,49376,62.0,-7.0,1393.0,UTC+00:00,[],Danish krone,European Union
+75,Fiji,FJI,Suva,Oceania,Melanesia,867000,-18.0,175.0,18272.0,UTC+12:00,[],Fijian dollar,
+76,Finland,FIN,Helsinki,Europe,Northern Europe,5491817,64.0,26.0,338424.0,UTC+02:00,"['NOR', 'SWE', 'RUS']",Euro,European Union
+77,France,FRA,Paris,Europe,Western Europe,66710000,46.0,2.0,640679.0,UTC-10:00,"['AND', 'BEL', 'DEU', 'ITA', 'LUX', 'MCO', 'ESP', 'CHE']",Euro,European Union
+78,French Guiana,GUF,Cayenne,Americas,South America,254541,4.0,-53.0,,UTC-03:00,"['BRA', 'SUR']",Euro,Union of South American Nations
+79,French Polynesia,PYF,Papeetē,Oceania,Polynesia,271800,-15.0,-140.0,4167.0,UTC-10:00,[],CFP franc,
+80,French Southern Territories,ATF,Port-aux-Français,Africa,Southern Africa,140,-49.25,69.167,7747.0,UTC+05:00,[],Euro,African Union
+81,Gabon,GAB,Libreville,Africa,Middle Africa,1802278,-1.0,11.75,267668.0,UTC+01:00,"['CMR', 'COG', 'GNQ']",Central African CFA franc,African Union
+82,Gambia,GMB,Banjul,Africa,Western Africa,1882450,13.46666666,-16.56666666,11295.0,UTC+00:00,['SEN'],Gambian dalasi,African Union
+83,Georgia,GEO,Tbilisi,Asia,Western Asia,3720400,42.0,43.5,69700.0,UTC-05:00,"['ARM', 'AZE', 'RUS', 'TUR']",Georgian Lari,
+84,Germany,DEU,Berlin,Europe,Western Europe,81770900,51.0,9.0,357114.0,UTC+01:00,"['AUT', 'BEL', 'CZE', 'DNK', 'FRA', 'LUX', 'NLD', 'POL', 'CHE']",Euro,European Union
+85,Ghana,GHA,Accra,Africa,Western Africa,27670174,8.0,-2.0,238533.0,UTC,"['BFA', 'CIV', 'TGO']",Ghanaian cedi,African Union
+86,Gibraltar,GIB,Gibraltar,Europe,Southern Europe,33140,36.13333333,-5.35,6.0,UTC+01:00,['ESP'],Gibraltar pound,European Union
+87,Greece,GRC,Athens,Europe,Southern Europe,10858018,39.0,22.0,131990.0,UTC+02:00,"['ALB', 'BGR', 'TUR', 'MKD']",Euro,European Union
+88,Greenland,GRL,Nuuk,Americas,Northern America,55847,72.0,-40.0,2166086.0,UTC-04:00,[],Danish krone,
+89,Grenada,GRD,St. George's,Americas,Caribbean,103328,12.11666666,-61.66666666,344.0,UTC-04:00,[],East Caribbean dollar,Caribbean Community
+90,Guadeloupe,GLP,Basse-Terre,Americas,Caribbean,400132,16.25,-61.583333,,UTC-04:00,[],Euro,
+91,Guam,GUM,Hagåtña,Oceania,Micronesia,184200,13.46666666,144.78333333,549.0,UTC+10:00,[],United States dollar,
+92,Guatemala,GTM,Guatemala City,Americas,Central America,16176133,15.5,-90.25,108889.0,UTC-06:00,"['BLZ', 'SLV', 'HND', 'MEX']",Guatemalan quetzal,Central American Integration System
+93,Guernsey,GGY,St. Peter Port,Europe,Northern Europe,62999,49.46666666,-2.58333333,78.0,UTC+00:00,[],British pound,
+94,Guinea,GIN,Conakry,Africa,Western Africa,12947000,11.0,-10.0,245857.0,UTC,"['CIV', 'GNB', 'LBR', 'MLI', 'SEN', 'SLE']",Guinean franc,African Union
+95,Guinea-Bissau,GNB,Bissau,Africa,Western Africa,1547777,12.0,-15.0,36125.0,UTC,"['GIN', 'SEN']",West African CFA franc,African Union
+96,Guyana,GUY,Georgetown,Americas,South America,746900,5.0,-59.0,214969.0,UTC-04:00,"['BRA', 'SUR', 'VEN']",Guyanese dollar,Caribbean Community
+97,Haiti,HTI,Port-au-Prince,Americas,Caribbean,11078033,19.0,-72.41666666,27750.0,UTC-05:00,['DOM'],Haitian gourde,Caribbean Community
+98,Heard Island and McDonald Islands,HMD,,,,0,-53.1,72.51666666,412.0,UTC+05:00,[],Australian dollar,
+99,Holy See,VAT,Rome,Europe,Southern Europe,451,41.9,12.45,0.44,UTC+01:00,['ITA'],Euro,
+100,Honduras,HND,Tegucigalpa,Americas,Central America,8576532,15.0,-86.5,112492.0,UTC-06:00,"['GTM', 'SLV', 'NIC']",Honduran lempira,Central American Integration System
+101,Hong Kong,HKG,City of Victoria,Asia,Eastern Asia,7324300,22.25,114.16666666,1104.0,UTC+08:00,['CHN'],Hong Kong dollar,
+102,Hungary,HUN,Budapest,Europe,Eastern Europe,9823000,47.0,20.0,93028.0,UTC+01:00,"['AUT', 'HRV', 'ROU', 'SRB', 'SVK', 'SVN', 'UKR']",Hungarian forint,European Union
+103,Iceland,ISL,Reykjavík,Europe,Northern Europe,334300,65.0,-18.0,103000.0,UTC,[],Icelandic króna,European Free Trade Association
+104,India,IND,New Delhi,Asia,Southern Asia,1295210000,20.0,77.0,3287590.0,UTC+05:30,"['AFG', 'BGD', 'BTN', 'MMR', 'CHN', 'NPL', 'PAK', 'LKA']",Indian rupee,South Asian Association for Regional Cooperation
+105,Indonesia,IDN,Jakarta,Asia,South-Eastern Asia,258705000,-5.0,120.0,1904569.0,UTC+07:00,"['TLS', 'MYS', 'PNG']",Indonesian rupiah,Association of Southeast Asian Nations
+106,Côte d'Ivoire,CIV,Yamoussoukro,Africa,Western Africa,22671331,8.0,-5.0,322463.0,UTC,"['BFA', 'GHA', 'GIN', 'LBR', 'MLI']",West African CFA franc,African Union
+107,Iran (Islamic Republic of),IRN,Tehran,Asia,Southern Asia,79369900,32.0,53.0,1648195.0,UTC+03:30,"['AFG', 'ARM', 'AZE', 'IRQ', 'PAK', 'TUR', 'TKM']",Iranian rial,
+108,Iraq,IRQ,Baghdad,Asia,Western Asia,37883543,33.0,44.0,438317.0,UTC+03:00,"['IRN', 'JOR', 'KWT', 'SAU', 'SYR', 'TUR']",Iraqi dinar,Arab League
+109,Ireland,IRL,Dublin,Europe,Northern Europe,6378000,53.0,-8.0,70273.0,UTC,['GBR'],Euro,European Union
+110,Isle of Man,IMN,Douglas,Europe,Northern Europe,84497,54.25,-4.5,572.0,UTC+00:00,[],British pound,European Union
+111,Israel,ISR,Jerusalem,Asia,Western Asia,8527400,31.5,34.75,20770.0,UTC+02:00,"['EGY', 'JOR', 'LBN', 'SYR']",Israeli new shekel,
+112,Italy,ITA,Rome,Europe,Southern Europe,60665551,42.83333333,12.83333333,301336.0,UTC+01:00,"['AUT', 'FRA', 'SMR', 'SVN', 'CHE', 'VAT']",Euro,European Union
+113,Jamaica,JAM,Kingston,Americas,Caribbean,2723246,18.25,-77.5,10991.0,UTC-05:00,[],Jamaican dollar,Caribbean Community
+114,Japan,JPN,Tokyo,Asia,Eastern Asia,126960000,36.0,138.0,377930.0,UTC+09:00,[],Japanese yen,
+115,Jersey,JEY,Saint Helier,Europe,Northern Europe,100800,49.25,-2.16666666,116.0,UTC+01:00,[],British pound,
+116,Jordan,JOR,Amman,Asia,Western Asia,9531712,31.0,36.0,89342.0,UTC+03:00,"['IRQ', 'ISR', 'SAU', 'SYR']",Jordanian dinar,Arab League
+117,Kazakhstan,KAZ,Astana,Asia,Central Asia,17753200,48.0,68.0,2724900.0,UTC+05:00,"['CHN', 'KGZ', 'RUS', 'TKM', 'UZB']",Kazakhstani tenge,Eurasian Economic Union
+118,Kenya,KEN,Nairobi,Africa,Eastern Africa,47251000,1.0,38.0,580367.0,UTC+03:00,"['ETH', 'SOM', 'SSD', 'TZA', 'UGA']",Kenyan shilling,African Union
+119,Kiribati,KIR,South Tarawa,Oceania,Micronesia,113400,1.41666666,173.0,811.0,UTC+12:00,[],Australian dollar,
+120,Kuwait,KWT,Kuwait City,Asia,Western Asia,4183658,29.5,45.75,17818.0,UTC+03:00,"['IRN', 'SAU']",Kuwaiti dinar,Arab League
+121,Kyrgyzstan,KGZ,Bishkek,Asia,Central Asia,6047800,41.0,75.0,199951.0,UTC+06:00,"['CHN', 'KAZ', 'TJK', 'UZB']",Kyrgyzstani som,Eurasian Economic Union
+122,Lao People's Democratic Republic,LAO,Vientiane,Asia,South-Eastern Asia,6492400,18.0,105.0,236800.0,UTC+07:00,"['MMR', 'KHM', 'CHN', 'THA', 'VNM']",Lao kip,Association of Southeast Asian Nations
+123,Latvia,LVA,Riga,Europe,Northern Europe,1961600,57.0,25.0,64559.0,UTC+02:00,"['BLR', 'EST', 'LTU', 'RUS']",Euro,European Union
+124,Lebanon,LBN,Beirut,Asia,Western Asia,5988000,33.83333333,35.83333333,10452.0,UTC+02:00,"['ISR', 'SYR']",Lebanese pound,Arab League
+125,Lesotho,LSO,Maseru,Africa,Southern Africa,1894194,-29.5,28.5,30355.0,UTC+02:00,['ZAF'],Lesotho loti,African Union
+126,Liberia,LBR,Monrovia,Africa,Western Africa,4615000,6.5,-9.5,111369.0,UTC,"['GIN', 'CIV', 'SLE']",Liberian dollar,African Union
+127,Libya,LBY,Tripoli,Africa,Northern Africa,6385000,25.0,17.0,1759540.0,UTC+01:00,"['DZA', 'TCD', 'EGY', 'NER', 'SDN', 'TUN']",Libyan dinar,African Union
+128,Liechtenstein,LIE,Vaduz,Europe,Western Europe,37623,47.26666666,9.53333333,160.0,UTC+01:00,"['AUT', 'CHE']",Swiss franc,European Free Trade Association
+129,Lithuania,LTU,Vilnius,Europe,Northern Europe,2872294,56.0,24.0,65300.0,UTC+02:00,"['BLR', 'LVA', 'POL', 'RUS']",Euro,European Union
+130,Luxembourg,LUX,Luxembourg,Europe,Western Europe,576200,49.75,6.16666666,2586.0,UTC+01:00,"['BEL', 'FRA', 'DEU']",Euro,European Union
+131,Macao,MAC,,Asia,Eastern Asia,649100,22.16666666,113.55,30.0,UTC+08:00,['CHN'],Macanese pataca,
+132,Macedonia (the former Yugoslav Republic of),MKD,Skopje,Europe,Southern Europe,2058539,41.83333333,22.0,25713.0,UTC+01:00,"['ALB', 'BGR', 'GRC', 'KOS', 'SRB']",Macedonian denar,Central European Free Trade Agreement
+133,Madagascar,MDG,Antananarivo,Africa,Eastern Africa,22434363,-20.0,47.0,587041.0,UTC+03:00,[],Malagasy ariary,African Union
+134,Malawi,MWI,Lilongwe,Africa,Eastern Africa,16832910,-13.5,34.0,118484.0,UTC+02:00,"['MOZ', 'TZA', 'ZMB']",Malawian kwacha,African Union
+135,Malaysia,MYS,Kuala Lumpur,Asia,South-Eastern Asia,31405416,2.5,112.5,330803.0,UTC+08:00,"['BRN', 'IDN', 'THA']",Malaysian ringgit,Association of Southeast Asian Nations
+136,Maldives,MDV,Malé,Asia,Southern Asia,344023,3.25,73.0,300.0,UTC+05:00,[],Maldivian rufiyaa,South Asian Association for Regional Cooperation
+137,Mali,MLI,Bamako,Africa,Western Africa,18135000,17.0,-4.0,1240192.0,UTC,"['DZA', 'BFA', 'GIN', 'CIV', 'MRT', 'NER', 'SEN']",West African CFA franc,African Union
+138,Malta,MLT,Valletta,Europe,Southern Europe,425384,35.83333333,14.58333333,316.0,UTC+01:00,[],Euro,European Union
+139,Marshall Islands,MHL,Majuro,Oceania,Micronesia,54880,9.0,168.0,181.0,UTC+12:00,[],United States dollar,
+140,Martinique,MTQ,Fort-de-France,Americas,Caribbean,378243,14.666667,-61.0,,UTC-04:00,[],Euro,
+141,Mauritania,MRT,Nouakchott,Africa,Western Africa,3718678,20.0,-12.0,1030700.0,UTC,"['DZA', 'MLI', 'SEN', 'ESH']",Mauritanian ouguiya,African Union
+142,Mauritius,MUS,Port Louis,Africa,Eastern Africa,1262879,-20.28333333,57.55,2040.0,UTC+04:00,[],Mauritian rupee,African Union
+143,Mayotte,MYT,Mamoudzou,Africa,Eastern Africa,226915,-12.83333333,45.16666666,,UTC+03:00,[],Euro,African Union
+144,Mexico,MEX,Mexico City,Americas,Central America,122273473,23.0,-102.0,1964375.0,UTC-08:00,"['BLZ', 'GTM', 'USA']",Mexican peso,Pacific Alliance
+145,Micronesia (Federated States of),FSM,Palikir,Oceania,Micronesia,102800,6.91666666,158.25,702.0,UTC+10:00,[],[D],
+146,Moldova (Republic of),MDA,Chișinău,Europe,Eastern Europe,3553100,47.0,29.0,33846.0,UTC+02:00,"['ROU', 'UKR']",Moldovan leu,Central European Free Trade Agreement
+147,Monaco,MCO,Monaco,Europe,Western Europe,38400,43.73333333,7.4,2.02,UTC+01:00,['FRA'],Euro,
+148,Mongolia,MNG,Ulan Bator,Asia,Eastern Asia,3093100,46.0,105.0,1564110.0,UTC+07:00,"['CHN', 'RUS']",Mongolian tögrög,
+149,Montenegro,MNE,Podgorica,Europe,Southern Europe,621810,42.5,19.3,13812.0,UTC+01:00,"['ALB', 'BIH', 'HRV', 'KOS', 'SRB']",Euro,Central European Free Trade Agreement
+150,Montserrat,MSR,Plymouth,Americas,Caribbean,4922,16.75,-62.2,102.0,UTC-04:00,[],East Caribbean dollar,Caribbean Community
+151,Morocco,MAR,Rabat,Africa,Northern Africa,33337529,32.0,-5.0,446550.0,UTC,"['DZA', 'ESH', 'ESP']",Moroccan dirham,African Union
+152,Mozambique,MOZ,Maputo,Africa,Eastern Africa,26423700,-18.25,35.0,801590.0,UTC+02:00,"['MWI', 'ZAF', 'SWZ', 'TZA', 'ZMB', 'ZWE']",Mozambican metical,African Union
+153,Myanmar,MMR,Naypyidaw,Asia,South-Eastern Asia,51419420,22.0,98.0,676578.0,UTC+06:30,"['BGD', 'CHN', 'IND', 'LAO', 'THA']",Burmese kyat,Association of Southeast Asian Nations
+154,Namibia,NAM,Windhoek,Africa,Southern Africa,2324388,-22.0,17.0,825615.0,UTC+01:00,"['AGO', 'BWA', 'ZAF', 'ZMB']",Namibian dollar,African Union
+155,Nauru,NRU,Yaren,Oceania,Micronesia,10084,-0.53333333,166.91666666,21.0,UTC+12:00,[],Australian dollar,
+156,Nepal,NPL,Kathmandu,Asia,Southern Asia,28431500,28.0,84.0,147181.0,UTC+05:45,"['CHN', 'IND']",Nepalese rupee,South Asian Association for Regional Cooperation
+157,Netherlands,NLD,Amsterdam,Europe,Western Europe,17019800,52.5,5.75,41850.0,UTC-04:00,"['BEL', 'DEU']",Euro,European Union
+158,New Caledonia,NCL,Nouméa,Oceania,Melanesia,268767,-21.5,165.5,18575.0,UTC+11:00,[],CFP franc,
+159,New Zealand,NZL,Wellington,Oceania,Australia and New Zealand,4697854,-41.0,174.0,270467.0,UTC-11:00,[],New Zealand dollar,
+160,Nicaragua,NIC,Managua,Americas,Central America,6262703,13.0,-85.0,130373.0,UTC-06:00,"['CRI', 'HND']",Nicaraguan córdoba,Central American Integration System
+161,Niger,NER,Niamey,Africa,Western Africa,20715000,16.0,8.0,1267000.0,UTC+01:00,"['DZA', 'BEN', 'BFA', 'TCD', 'LBY', 'MLI', 'NGA']",West African CFA franc,African Union
+162,Nigeria,NGA,Abuja,Africa,Western Africa,186988000,10.0,8.0,923768.0,UTC+01:00,"['BEN', 'CMR', 'TCD', 'NER']",Nigerian naira,African Union
+163,Niue,NIU,Alofi,Oceania,Polynesia,1470,-19.03333333,-169.86666666,260.0,UTC-11:00,[],New Zealand dollar,
+164,Norfolk Island,NFK,Kingston,Oceania,Australia and New Zealand,2302,-29.03333333,167.95,36.0,UTC+11:30,[],Australian dollar,
+165,Korea (Democratic People's Republic of),PRK,Pyongyang,Asia,Eastern Asia,25281000,40.0,127.0,120538.0,UTC+09:00,"['CHN', 'KOR', 'RUS']",North Korean won,
+166,Northern Mariana Islands,MNP,Saipan,Oceania,Micronesia,56940,15.2,145.75,464.0,UTC+10:00,[],United States dollar,
+167,Norway,NOR,Oslo,Europe,Northern Europe,5223256,62.0,10.0,323802.0,UTC+01:00,"['FIN', 'SWE', 'RUS']",Norwegian krone,European Free Trade Association
+168,Oman,OMN,Muscat,Asia,Western Asia,4420133,21.0,57.0,309500.0,UTC+04:00,"['SAU', 'ARE', 'YEM']",Omani rial,Arab League
+169,Pakistan,PAK,Islamabad,Asia,Southern Asia,194125062,30.0,70.0,881912.0,UTC+05:00,"['AFG', 'CHN', 'IND', 'IRN']",Pakistani rupee,South Asian Association for Regional Cooperation
+170,Palau,PLW,Ngerulmud,Oceania,Micronesia,17950,7.5,134.5,459.0,UTC+09:00,[],[E],
+171,"Palestine, State of",PSE,Ramallah,Asia,Western Asia,4682467,31.9,35.2,,UTC+02:00,"['ISR', 'EGY', 'JOR']",Israeli new sheqel,Arab League
+172,Panama,PAN,Panama City,Americas,Central America,3814672,9.0,-80.0,75417.0,UTC-05:00,"['COL', 'CRI']",Panamanian balboa,Central American Integration System
+173,Papua New Guinea,PNG,Port Moresby,Oceania,Melanesia,8083700,-6.0,147.0,462840.0,UTC+10:00,['IDN'],Papua New Guinean kina,
+174,Paraguay,PRY,Asunción,Americas,South America,6854536,-23.0,-58.0,406752.0,UTC-04:00,"['ARG', 'BOL', 'BRA']",Paraguayan guaraní,Union of South American Nations
+175,Peru,PER,Lima,Americas,South America,31488700,-10.0,-76.0,1285216.0,UTC-05:00,"['BOL', 'BRA', 'CHL', 'COL', 'ECU']",Peruvian sol,Pacific Alliance
+176,Philippines,PHL,Manila,Asia,South-Eastern Asia,103279800,13.0,122.0,342353.0,UTC+08:00,[],Philippine peso,Association of Southeast Asian Nations
+177,Pitcairn,PCN,Adamstown,Oceania,Polynesia,56,-25.06666666,-130.1,47.0,UTC-08:00,[],New Zealand dollar,
+178,Poland,POL,Warsaw,Europe,Eastern Europe,38437239,52.0,20.0,312679.0,UTC+01:00,"['BLR', 'CZE', 'DEU', 'LTU', 'RUS', 'SVK', 'UKR']",Polish złoty,European Union
+179,Portugal,PRT,Lisbon,Europe,Southern Europe,10374822,39.5,-8.0,92090.0,UTC-01:00,['ESP'],Euro,European Union
+180,Puerto Rico,PRI,San Juan,Americas,Caribbean,3474182,18.25,-66.5,8870.0,UTC-04:00,[],United States dollar,
+181,Qatar,QAT,Doha,Asia,Western Asia,2587564,25.5,51.25,11586.0,UTC+03:00,['SAU'],Qatari riyal,Arab League
+182,Republic of Kosovo,KOS,Pristina,Europe,Eastern Europe,1733842,42.666667,21.166667,10908.0,UTC+01:00,"['ALB', 'MKD', 'MNE', 'SRB']",Euro,Central European Free Trade Agreement
+183,Réunion,REU,Saint-Denis,Africa,Eastern Africa,840974,-21.15,55.5,,UTC+04:00,[],Euro,African Union
+184,Romania,ROU,Bucharest,Europe,Eastern Europe,19861408,46.0,25.0,238391.0,UTC+02:00,"['BGR', 'HUN', 'MDA', 'SRB', 'UKR']",Romanian leu,European Union
+185,Russian Federation,RUS,Moscow,Europe,Eastern Europe,146599183,60.0,100.0,17124442.0,UTC+03:00,"['AZE', 'BLR', 'CHN', 'EST', 'FIN', 'GEO', 'KAZ', 'PRK', 'LVA', 'LTU', 'MNG', 'NOR', 'POL', 'UKR']",Russian ruble,Eurasian Economic Union
+186,Rwanda,RWA,Kigali,Africa,Eastern Africa,11553188,-2.0,30.0,26338.0,UTC+02:00,"['BDI', 'COD', 'TZA', 'UGA']",Rwandan franc,African Union
+187,Saint Barthélemy,BLM,Gustavia,Americas,Caribbean,9417,18.5,-63.41666666,21.0,UTC-04:00,[],Euro,
+188,"Saint Helena, Ascension and Tristan da Cunha",SHN,Jamestown,Africa,Western Africa,4255,-15.95,-5.7,,UTC+00:00,[],Saint Helena pound,African Union
+189,Saint Kitts and Nevis,KNA,Basseterre,Americas,Caribbean,46204,17.33333333,-62.75,261.0,UTC-04:00,[],East Caribbean dollar,Caribbean Community
+190,Saint Lucia,LCA,Castries,Americas,Caribbean,186000,13.88333333,-60.96666666,616.0,UTC-04:00,[],East Caribbean dollar,Caribbean Community
+191,Saint Martin (French part),MAF,Marigot,Americas,Caribbean,36979,18.08333333,-63.95,53.0,UTC-04:00,"['SXM', 'NLD']",Euro,
+192,Saint Pierre and Miquelon,SPM,Saint-Pierre,Americas,Northern America,6069,46.83333333,-56.33333333,242.0,UTC-03:00,[],Euro,
+193,Saint Vincent and the Grenadines,VCT,Kingstown,Americas,Caribbean,109991,13.25,-61.2,389.0,UTC-04:00,[],East Caribbean dollar,Caribbean Community
+194,Samoa,WSM,Apia,Oceania,Polynesia,194899,-13.58333333,-172.33333333,2842.0,UTC+13:00,[],Samoan tālā,
+195,San Marino,SMR,City of San Marino,Europe,Southern Europe,33005,43.76666666,12.41666666,61.0,UTC+01:00,['ITA'],Euro,
+196,Sao Tome and Principe,STP,São Tomé,Africa,Middle Africa,187356,1.0,7.0,964.0,UTC,[],São Tomé and Príncipe dobra,African Union
+197,Saudi Arabia,SAU,Riyadh,Asia,Western Asia,32248200,25.0,45.0,2149690.0,UTC+03:00,"['IRQ', 'JOR', 'KWT', 'OMN', 'QAT', 'ARE', 'YEM']",Saudi riyal,Arab League
+198,Senegal,SEN,Dakar,Africa,Western Africa,14799859,14.0,-14.0,196722.0,UTC,"['GMB', 'GIN', 'GNB', 'MLI', 'MRT']",West African CFA franc,African Union
+199,Serbia,SRB,Belgrade,Europe,Southern Europe,7076372,44.0,21.0,88361.0,UTC+01:00,"['BIH', 'BGR', 'HRV', 'HUN', 'KOS', 'MKD', 'MNE', 'ROU']",Serbian dinar,Central European Free Trade Agreement
+200,Seychelles,SYC,Victoria,Africa,Eastern Africa,91400,-4.58333333,55.66666666,452.0,UTC+04:00,[],Seychellois rupee,African Union
+201,Sierra Leone,SLE,Freetown,Africa,Western Africa,7075641,8.5,-11.5,71740.0,UTC,"['GIN', 'LBR']",Sierra Leonean leone,African Union
+202,Singapore,SGP,Singapore,Asia,South-Eastern Asia,5535000,1.36666666,103.8,710.0,UTC+08:00,[],Brunei dollar,Association of Southeast Asian Nations
+203,Sint Maarten (Dutch part),SXM,Philipsburg,Americas,Caribbean,38247,18.033333,-63.05,34.0,UTC-04:00,['MAF'],Netherlands Antillean guilder,
+204,Slovakia,SVK,Bratislava,Europe,Eastern Europe,5426252,48.66666666,19.5,49037.0,UTC+01:00,"['AUT', 'CZE', 'HUN', 'POL', 'UKR']",Euro,European Union
+205,Slovenia,SVN,Ljubljana,Europe,Southern Europe,2064188,46.11666666,14.81666666,20273.0,UTC+01:00,"['AUT', 'HRV', 'ITA', 'HUN']",Euro,European Union
+206,Solomon Islands,SLB,Honiara,Oceania,Melanesia,642000,-8.0,159.0,28896.0,UTC+11:00,[],Solomon Islands dollar,
+207,Somalia,SOM,Mogadishu,Africa,Eastern Africa,11079000,10.0,49.0,637657.0,UTC+03:00,"['DJI', 'ETH', 'KEN']",Somali shilling,African Union
+208,South Africa,ZAF,Pretoria,Africa,Southern Africa,55653654,-29.0,24.0,1221037.0,UTC+02:00,"['BWA', 'LSO', 'MOZ', 'NAM', 'SWZ', 'ZWE']",South African rand,African Union
+209,South Georgia and the South Sandwich Islands,SGS,King Edward Point,Americas,South America,30,-54.5,-37.0,,UTC-02:00,[],British pound,Union of South American Nations
+210,Korea (Republic of),KOR,Seoul,Asia,Eastern Asia,50801405,37.0,127.5,100210.0,UTC+09:00,['PRK'],South Korean won,
+211,South Sudan,SSD,Juba,Africa,Middle Africa,12131000,7.0,30.0,619745.0,UTC+03:00,"['CAF', 'COD', 'ETH', 'KEN', 'SDN', 'UGA']",South Sudanese pound,African Union
+212,Spain,ESP,Madrid,Europe,Southern Europe,46438422,40.0,-4.0,505992.0,UTC,"['AND', 'FRA', 'GIB', 'PRT', 'MAR']",Euro,European Union
+213,Sri Lanka,LKA,Colombo,Asia,Southern Asia,20966000,7.0,81.0,65610.0,UTC+05:30,['IND'],Sri Lankan rupee,South Asian Association for Regional Cooperation
+214,Sudan,SDN,Khartoum,Africa,Northern Africa,39598700,15.0,30.0,1886068.0,UTC+03:00,"['CAF', 'TCD', 'EGY', 'ERI', 'ETH', 'LBY', 'SSD']",Sudanese pound,African Union
+215,Suriname,SUR,Paramaribo,Americas,South America,541638,4.0,-56.0,163820.0,UTC-03:00,"['BRA', 'GUF', 'FRA', 'GUY']",Surinamese dollar,Caribbean Community
+216,Svalbard and Jan Mayen,SJM,Longyearbyen,Europe,Northern Europe,2562,78.0,20.0,,UTC+01:00,[],Norwegian krone,
+217,Swaziland,SWZ,Lobamba,Africa,Southern Africa,1132657,-26.5,31.5,17364.0,UTC+02:00,"['MOZ', 'ZAF']",Swazi lilangeni,African Union
+218,Sweden,SWE,Stockholm,Europe,Northern Europe,9894888,62.0,15.0,450295.0,UTC+01:00,"['FIN', 'NOR']",Swedish krona,European Union
+219,Switzerland,CHE,Bern,Europe,Western Europe,8341600,47.0,8.0,41284.0,UTC+01:00,"['AUT', 'FRA', 'ITA', 'LIE', 'DEU']",Swiss franc,European Free Trade Association
+220,Syrian Arab Republic,SYR,Damascus,Asia,Western Asia,18564000,35.0,38.0,185180.0,UTC+02:00,"['IRQ', 'ISR', 'JOR', 'LBN', 'TUR']",Syrian pound,Arab League
+221,Taiwan,TWN,Taipei,Asia,Eastern Asia,23503349,23.5,121.0,36193.0,UTC+08:00,[],New Taiwan dollar,
+222,Tajikistan,TJK,Dushanbe,Asia,Central Asia,8593600,39.0,71.0,143100.0,UTC+05:00,"['AFG', 'CHN', 'KGZ', 'UZB']",Tajikistani somoni,
+223,"Tanzania, United Republic of",TZA,Dodoma,Africa,Eastern Africa,55155000,-6.0,35.0,945087.0,UTC+03:00,"['BDI', 'COD', 'KEN', 'MWI', 'MOZ', 'RWA', 'UGA', 'ZMB']",Tanzanian shilling,African Union
+224,Thailand,THA,Bangkok,Asia,South-Eastern Asia,65327652,15.0,100.0,513120.0,UTC+07:00,"['MMR', 'KHM', 'LAO', 'MYS']",Thai baht,Association of Southeast Asian Nations
+225,Timor-Leste,TLS,Dili,Asia,South-Eastern Asia,1167242,-8.83333333,125.91666666,14874.0,UTC+09:00,['IDN'],United States dollar,
+226,Togo,TGO,Lomé,Africa,Western Africa,7143000,8.0,1.16666666,56785.0,UTC,"['BEN', 'BFA', 'GHA']",West African CFA franc,African Union
+227,Tokelau,TKL,Fakaofo,Oceania,Polynesia,1411,-9.0,-172.0,12.0,UTC+13:00,[],New Zealand dollar,
+228,Tonga,TON,Nuku'alofa,Oceania,Polynesia,103252,-20.0,-175.0,747.0,UTC+13:00,[],Tongan paʻanga,
+229,Trinidad and Tobago,TTO,Port of Spain,Americas,Caribbean,1349667,11.0,-61.0,5130.0,UTC-04:00,[],Trinidad and Tobago dollar,Caribbean Community
+230,Tunisia,TUN,Tunis,Africa,Northern Africa,11154400,34.0,9.0,163610.0,UTC+01:00,"['DZA', 'LBY']",Tunisian dinar,African Union
+231,Turkey,TUR,Ankara,Asia,Western Asia,78741053,39.0,35.0,783562.0,UTC+03:00,"['ARM', 'AZE', 'BGR', 'GEO', 'GRC', 'IRN', 'IRQ', 'SYR']",Turkish lira,
+232,Turkmenistan,TKM,Ashgabat,Asia,Central Asia,4751120,40.0,60.0,488100.0,UTC+05:00,"['AFG', 'IRN', 'KAZ', 'UZB']",Turkmenistan manat,
+233,Turks and Caicos Islands,TCA,Cockburn Town,Americas,Caribbean,31458,21.75,-71.58333333,948.0,UTC-04:00,[],United States dollar,
+234,Tuvalu,TUV,Funafuti,Oceania,Polynesia,10640,-8.0,178.0,26.0,UTC+12:00,[],Australian dollar,
+235,Uganda,UGA,Kampala,Africa,Eastern Africa,33860700,1.0,32.0,241550.0,UTC+03:00,"['COD', 'KEN', 'RWA', 'SSD', 'TZA']",Ugandan shilling,African Union
+236,Ukraine,UKR,Kiev,Europe,Eastern Europe,42692393,49.0,32.0,603700.0,UTC+02:00,"['BLR', 'HUN', 'MDA', 'POL', 'ROU', 'RUS', 'SVK']",Ukrainian hryvnia,
+237,United Arab Emirates,ARE,Abu Dhabi,Asia,Western Asia,9856000,24.0,54.0,83600.0,UTC+04,"['OMN', 'SAU']",United Arab Emirates dirham,Arab League
+238,United Kingdom of Great Britain and Northern Ireland,GBR,London,Europe,Northern Europe,65110000,54.0,-2.0,242900.0,UTC-08:00,['IRL'],British pound,European Union
+239,United States of America,USA,"Washington, D.C.",Americas,Northern America,323947000,38.0,-97.0,9629091.0,UTC-12:00,"['CAN', 'MEX']",United States dollar,North American Free Trade Agreement
+240,Uruguay,URY,Montevideo,Americas,South America,3480222,-33.0,-56.0,181034.0,UTC-03:00,"['ARG', 'BRA']",Uruguayan peso,Union of South American Nations
+241,Uzbekistan,UZB,Tashkent,Asia,Central Asia,31576400,41.0,64.0,447400.0,UTC+05:00,"['AFG', 'KAZ', 'KGZ', 'TJK', 'TKM']",Uzbekistani so'm,
+242,Vanuatu,VUT,Port Vila,Oceania,Melanesia,277500,-16.0,167.0,12189.0,UTC+11:00,[],Vanuatu vatu,
+243,Venezuela (Bolivarian Republic of),VEN,Caracas,Americas,South America,31028700,8.0,-66.0,916445.0,UTC-04:00,"['BRA', 'COL', 'GUY']",Venezuelan bolívar,Union of South American Nations
+244,Viet Nam,VNM,Hanoi,Asia,South-Eastern Asia,92700000,16.16666666,107.83333333,331212.0,UTC+07:00,"['KHM', 'CHN', 'LAO']",Vietnamese đồng,Association of Southeast Asian Nations
+245,Wallis and Futuna,WLF,Mata-Utu,Oceania,Polynesia,11750,-13.3,-176.2,142.0,UTC+12:00,[],CFP franc,
+246,Western Sahara,ESH,El Aaiún,Africa,Northern Africa,510713,24.5,-13.0,266000.0,UTC+00:00,"['DZA', 'MRT', 'MAR']",Moroccan dirham,African Union
+247,Yemen,YEM,Sana'a,Asia,Western Asia,27478000,15.0,48.0,527968.0,UTC+03:00,"['OMN', 'SAU']",Yemeni rial,Arab League
+248,Zambia,ZMB,Lusaka,Africa,Eastern Africa,15933883,-15.0,30.0,752612.0,UTC+02:00,"['AGO', 'BWA', 'COD', 'MWI', 'MOZ', 'NAM', 'TZA', 'ZWE']",Zambian kwacha,African Union
+249,Zimbabwe,ZWE,Harare,Africa,Eastern Africa,14240168,-20.0,30.0,390757.0,UTC+02:00,"['BWA', 'MOZ', 'ZAF', 'ZMB']",Botswana pula,African Union
