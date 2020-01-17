@@ -14,6 +14,7 @@ requests = "*"
 pprint = "*"
 country_converter = "*"
 plotly = "*"
+numpy = "*"
 blackcellmagic = "*"
 
 [requires]
