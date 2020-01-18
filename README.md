@@ -3,7 +3,7 @@ Group Project 1 for the UT Data Analytics Boot Camp
 
 
 # Topic:
-Number of internet users worldwide
+Number of Internet users worldwide
 
 # Source:
 
