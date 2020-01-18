@@ -16,6 +16,8 @@ country_converter = "*"
 plotly = "*"
 numpy = "*"
 blackcellmagic = "*"
+sqlalchemy = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.7"
