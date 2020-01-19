@@ -4,12 +4,10 @@ from OECD_function import *
 def pplotme(choice):
     
     dataframes = [
-    gdpRD_df,
-    val_addedPPP,
-    gdp_ppp,
+    gdp_pcapita_PPP,
     unemployment_rate,
-    gdp_percapita,
-    gdp_pcapita_PPP
+    gdpRD_df,
+    val_addedPPP
     ]
     
     colors = [    

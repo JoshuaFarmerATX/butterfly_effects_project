@@ -4,6 +4,7 @@ import os
 import pprint as pp
 import matplotlib.pyplot as plt
 
+
 path = os.path.join("OECD_data", "broadband.csv")
 
 with open(path) as csv_file:
@@ -21,46 +22,6 @@ path = os.path.join("OECD_data", "economic_outlook.csv")
 
 with open(path) as csv_file:
     econ_df = pd.read_csv(csv_file)
-
-econ_df = econ_df[["Country", "VARIABLE", "Variable", "Time", "Value"]]
-
-
-def get_var(df, var):
-    if "VAR" in df.columns:
-        return df[df["VAR"] == var].fillna(value=0)
-    elif 'ï»¿"MSTI_VAR"' in df.columns:
-        return df[df['ï»¿"MSTI_VAR"'] == var].fillna(value=0)
-    elif 'VARIABLE' in df.columns:
-        return df[df['VARIABLE'] == var].fillna(0)
-    
-
-def get_values(df):
-    countries = list(df.Country.unique())
-    data = {}
-    if "Time" in df.columns:
-        years = list(df.Time.unique())
-        for y in years:
-            data[str(y)] = {}
-            for c in countries:
-                value = df.loc[(df["Country"] == c) & (df["Time"] == y)].Value.values
-                if value.shape == (1,):
-                    data[str(y)][c] = float(value)
-                else:
-                    data[str(y)][c] = np.nan
-
-    elif "Year" in list(df.columns):
-        years = list(df.Year.unique())
-        for y in years:
-            data[str(y)] = {}
-            for c in countries:
-                value = df.loc[(df["Country"] == c) & (df["Year"] == y)].Value.values
-                if value.shape == (1,):
-                    data[str(y)][c] = float(value)
-                else:
-                    data[str(y)][c] = np.nan
-
-    return pd.DataFrame(data)
-
 
 econ_df = econ_df[["Country", "VARIABLE", "Variable", "Time", "Value"]]
 fixed100_bb_df = get_var(og_bb_df, "BB-P100-TOT")
@@ -98,24 +59,12 @@ val_addedPPP = get_values(VA_PPP)
 GDP_PPP = get_var(GERD, "GDP_PPP")
 gdp_ppp = get_values(GDP_PPP)
 
-UNR = get_var(econ_df, "UNR")
-unemployment_rate = get_values(UNR)
-
-GDPV_CAP = get_var(econ_df, "GDPV_CAP")
-gdp_percapita = get_values(GDPV_CAP)
-
-GDPVD_CAP = get_var(econ_df, "GDPVD_CAP")
-gdp_pcapita_PPP = get_values(GDPVD_CAP)
-
-
 def plotitfunc(choice):
     dataframes = [
+    gdp_pcapita_PPP,
+    unemployment_rate,
     gdpRD_df,
     val_addedPPP,
-    gdp_ppp,
-    unemployment_rate,
-    gdp_percapita,
-    gdp_pcapita_PPP
     ]
     
     colors = [    
