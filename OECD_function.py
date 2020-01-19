@@ -22,7 +22,44 @@ path = os.path.join("OECD_data", "economic_outlook.csv")
 
 with open(path) as csv_file:
     econ_df = pd.read_csv(csv_file)
+    
 
+
+def get_var(df, var):
+    if "VAR" in df.columns:
+        return df[df["VAR"] == var].fillna(value=0)
+    elif 'ï»¿"MSTI_VAR"' in df.columns:
+        return df[df['ï»¿"MSTI_VAR"'] == var].fillna(value=0)
+    elif 'VARIABLE' in df.columns:
+        return df[df['VARIABLE'] == var].fillna(0)    
+
+def get_values(df):
+    countries = list(df.Country.unique())
+    data = {}
+    if "Time" in df.columns:
+        years = list(df.Time.unique())
+        for y in years:
+            data[str(y)] = {}
+            for c in countries:
+                value = df.loc[(df["Country"] == c) & (df["Time"] == y)].Value.values
+                if value.shape == (1,):
+                    data[str(y)][c] = float(value)
+                else:
+                    data[str(y)][c] = np.nan
+
+    elif "Year" in list(df.columns):
+        years = list(df.Year.unique())
+        for y in years:
+            data[str(y)] = {}
+            for c in countries:
+                value = df.loc[(df["Country"] == c) & (df["Year"] == y)].Value.values
+                if value.shape == (1,):
+                    data[str(y)][c] = float(value)
+                else:
+                    data[str(y)][c] = np.nan
+
+    return pd.DataFrame(data)
+    
 econ_df = econ_df[["Country", "VARIABLE", "Variable", "Time", "Value"]]
 fixed100_bb_df = get_var(og_bb_df, "BB-P100-TOT")
 mob100_bb_df = get_var(og_bb_df, "BBW-P100-TOT")
