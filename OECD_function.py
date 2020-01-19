@@ -62,6 +62,51 @@ def get_values(df):
     return pd.DataFrame(data)
 
 
+econ_df = econ_df[["Country", "VARIABLE", "Variable", "Time", "Value"]]
+fixed100_bb_df = get_var(og_bb_df, "BB-P100-TOT")
+mob100_bb_df = get_var(og_bb_df, "BBW-P100-TOT")
+fixed100_df = get_values(fixed100_bb_df[fixed100_bb_df["Time"].str.startswith("2")])
+mobile100_df = get_values(mob100_bb_df[mob100_bb_df["Time"].str.startswith("2")])
+
+fixed_bb_df = get_var(og_bb_df, "BB-SUBS-TOT")
+mob_bb_df = get_var(og_bb_df, "BBW-SUBS-TOT")
+fixed_df = get_values(fixed_bb_df[fixed_bb_df["Time"].str.startswith("2")])
+mobile_df = get_values(mob_bb_df[mob_bb_df["Time"].str.startswith("2")])
+
+POP = get_var(econ_df, "POP")
+population = get_values(POP)
+
+##fixed+mobile in persons
+total_bb_df = pd.DataFrame()
+for col in fixed_df.columns:
+    total_bb_df[col] = fixed_df[col] + mobile_df[col]
+
+total100_df = pd.DataFrame()
+for col in total_bb_df.columns:
+    total100_df[col] = (total_bb_df[col] / population[col]) * 100
+
+total100_df = total100_df.dropna(axis=0)
+
+##Research and Development
+gdpRD = get_var(GERD, "G_XGDP")
+gdpRD_df = get_values(gdpRD)
+
+VA_PPP = get_var(GERD, "VA_PPP")
+val_addedPPP = get_values(VA_PPP)
+
+##economic_indicators
+GDP_PPP = get_var(GERD, "GDP_PPP")
+gdp_ppp = get_values(GDP_PPP)
+
+UNR = get_var(econ_df, "UNR")
+unemployment_rate = get_values(UNR)
+
+GDPV_CAP = get_var(econ_df, "GDPV_CAP")
+gdp_percapita = get_values(GDPV_CAP)
+
+GDPVD_CAP = get_var(econ_df, "GDPVD_CAP")
+gdp_pcapita_PPP = get_values(GDPVD_CAP)
+
 
 def plotitfunc(choice):
     dataframes = [
